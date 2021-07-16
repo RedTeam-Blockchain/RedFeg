@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.feg.red/#About">About</a>
+  <a href="https://github.com/RedTeam-Blockchain/RedFeg/blob/main/RedFeg_mythx_security_audit.pdf">Audit</a>
   •
   <a href="https://www.feg.red/#How-to-buy">How to buy</a>
   •
