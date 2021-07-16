@@ -21,4 +21,4 @@
 
 ## About
 
-<p>RedFEG is a hyper-deflationary reflection token with an inherent burn.</p>
+<p>RedFEG is a hyper-deflationary reflection token.</p>
